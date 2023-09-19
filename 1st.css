@@ -33,3 +33,10 @@ section{
     background-image: url(backgroung.jpg);
     background-repeat: no-repeat;
 }
+.2nd part {
+    display: flex;
+}
+.miami{
+    width: 50%;
+    padding: 10%;
+}
