@@ -1,5 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0px;
+
 }
 h1{
     font-size: 50px;
@@ -22,8 +24,12 @@ section{
 .botton{
     text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(black,red);
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 65, 65));
     border-radius: 10px;
-    color: white;
+    color: rgb(43, 42, 42);
     font-weight: 700;
+}
+.bg{
+    background-image: url(backgroung.jpg);
+    background-repeat: no-repeat;
 }
