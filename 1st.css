@@ -1,6 +1,9 @@
 body{
     font-family: 'Oswald', sans-serif;
     margin: 0px;
+    background-image: url(backgroung.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 h1{
@@ -11,6 +14,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .pera{
     width: 75%;
@@ -24,19 +28,30 @@ section{
 .botton{
     text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 65, 65));
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(18, 12, 99));
     border-radius: 10px;
     color: rgb(43, 42, 42);
     font-weight: 700;
 }
-.bg{
-    background-image: url(backgroung.jpg);
-    background-repeat: no-repeat;
+.rong{
+    color: blue;
 }
-.2nd part {
+section{
     display: flex;
 }
-.miami{
-    width: 50%;
+.miami img{
+    width: 30%;
     padding: 10%;
+}
+.asi{
+    width: 75%;
+    padding-right:20% ;
+}
+.downlode{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(12, 10, 112));
+    border-radius: 10px;
+    color: rgb(43, 42, 42);
+    font-weight: 700;
 }
