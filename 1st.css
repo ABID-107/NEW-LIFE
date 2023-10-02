@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Oswald', sans-serif;
     margin: 0px;
     background-image: url(backgroung.jpg);
@@ -6,55 +6,79 @@ body{
     background-size: cover;
 
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.color{
+
+.color {
     color: red;
 }
-section{
+
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
-.pera{
+
+.pera {
     width: 75%;
     padding: 5%;
 }
-.chobi img{
+
+.chobi img {
     width: 50%;
     padding: 10%;
 
 }
-.botton{
+
+.botton {
     text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(18, 12, 99));
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(18, 12, 99));
     border-radius: 10px;
     color: rgb(43, 42, 42);
     font-weight: 700;
 }
-.rong{
+
+.rong {
     color: blue;
 }
-section{
+
+section {
     display: flex;
 }
-.miami img{
+
+.miami img {
     width: 30%;
     padding: 10%;
 }
-.asi{
+
+.asi {
     width: 75%;
-    padding-right:20% ;
+    padding-right: 20%;
 }
-.downlode{
+
+.downlode {
     text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(12, 10, 112));
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(12, 10, 112));
     border-radius: 10px;
     color: rgb(43, 42, 42);
     font-weight: 700;
 }
-section{
-    
+
+section {
+    display: flex;
+}
+
+.prothom {
+    margin: 40px;
+
+}
+
+.exp {
+    text-align: center;
+}
+.nai{
+    padding: 5%;
 }
