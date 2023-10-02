@@ -75,10 +75,13 @@ section {
     margin: 40px;
 
 }
-
-.exp {
-    text-align: center;
-}
 .nai{
     padding: 5%;
+}
+.box1{
+
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.473);
+}
+.box2{
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.473);
 }
